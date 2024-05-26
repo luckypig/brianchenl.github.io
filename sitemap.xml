@@ -277,6 +277,13 @@
   </url>
   
   <url>
+    <loc>http://brianchenl.github.io/tags/git/</loc>
+    <lastmod>2024-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://brianchenl.github.io/tags/provider/</loc>
     <lastmod>2024-05-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -292,13 +299,6 @@
   
   <url>
     <loc>http://brianchenl.github.io/tags/agnoster/</loc>
-    <lastmod>2024-05-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://brianchenl.github.io/tags/git/</loc>
     <lastmod>2024-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
